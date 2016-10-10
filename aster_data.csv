@@ -1,0 +1,11 @@
+id,order,score,weight,color,label
+SC,8,50,1,#EAF195,#5 Safest City
+SCH,2,90,1,#C32F4B,"#2 Lincoln Public Schools was ranked 2nd in quality of education in an eight-state area of the Midwest. In fact, Lincoln maintains the 4th highest percentage of graduating high school seniors in the nation."
+HC,4,100,1,#F47245,#1 in America's Healthiest Small Cities.
+BBC,5,60,1,#FB9F59,#6 Best place for Business and Careers.
+USC,1,100,1,#9E0041,"#1 U.S. City, Quality of Life."
+LHC,7,80,1,#FAE38C,#2 Lower health cost.
+BFC,9,90,1,#C7E89E,#2 Bicycle Friendly Community
+ATC,10,60,1,#9CD6A4,Top 20 - America's Thriving Cities.
+CS,6,60,1,#FEC574,#6 Best city for college students.
+BDT,3,70,1,#E1514B,#7 Best downtown.
